@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Water Sort</string>
+    <string name="level_label">LEVEL</string>
+    <string name="moves_label">MOVES</string>
+    <string name="undo_action">Undo</string>
+    <string name="restart_action">Restart</string>
+    <string name="level_complete">Level Complete!</string>
+    <string name="next_level">Next Level →</string>
+</resources>

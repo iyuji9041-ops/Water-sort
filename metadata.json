@@ -1,0 +1,6 @@
+{
+  "name": "Water Sort",
+  "description": "Satisfying ASMR water sorting puzzle game with fluid animations, custom sound effects, haptics, and levels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
